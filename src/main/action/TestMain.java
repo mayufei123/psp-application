@@ -10,5 +10,6 @@ public class TestMain {
         student.setAge(3);
         System.out.println("StudentInfo:"+student.getName()+";"+student.getAge()+";");
 
+        System.out.println("===========This is Action=========");
     }
 }
